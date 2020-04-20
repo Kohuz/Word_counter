@@ -1,1 +1,1 @@
-# Word_counter
+This is a simple program which counts characters, words and new lines in a text file based on the choice of the user. It was made as a task for geoinformatics course at Palacký university by Jakub Kozubek
